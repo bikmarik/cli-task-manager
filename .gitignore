@@ -1,0 +1,11 @@
+# Compiled binaries
+cli-task-manager
+*.exe
+/main
+
+# Local task data
+tasks.json
+
+# Editor files
+.idea/
+.vscode/
